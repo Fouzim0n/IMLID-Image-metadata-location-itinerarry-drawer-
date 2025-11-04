@@ -1,4 +1,4 @@
-# IMLID-Image-metadata-location-itinerarry-drawer
+# IMLID (Image metadata location itinerarry drawer)
 
 This was made on Python 3.14
 
