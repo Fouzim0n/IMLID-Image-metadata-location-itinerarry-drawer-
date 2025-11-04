@@ -3,6 +3,6 @@
 This was made on Python 3.14
 
 Non-standard modules used:
-  tkinter
-  Pillow
+  tkinter, 
+  Pillow, 
   tkintermapview
